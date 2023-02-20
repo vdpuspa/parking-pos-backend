@@ -1,0 +1,12 @@
+{
+  "database": {
+    "host": "localhost",
+    "port": "5432",
+    "name": "parking_pos",
+    "username": "postgres",
+    "password": "postgres"
+  },
+  "server": {
+    "port": "3000"
+  }
+}
